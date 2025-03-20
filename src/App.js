@@ -13,6 +13,13 @@ import Component10 from './components/Component10';
 import Component11 from './components/Component11';
 import Component12 from './components/Component12';
 import Component13 from './components/Component13';
+import Component14 from './components/Component14';
+import Component15 from './components/Component15';
+import Component16 from './components/Component16';
+import Component17 from './components/Component17';
+import Component18 from './components/Component18';
+import Component19 from './components/Component19';
+import Componente20 from './components/Componente20';
 
 function App() {
   return (
@@ -57,7 +64,29 @@ function App() {
         <Component12/>
         <br></br>
         <Component13/>
-      </header>
+       <br>
+       </br>
+       <Component14/>
+       <br>
+       </br>
+       <Component15/>
+       <br>
+       </br>
+       <Component16/>
+       <br>
+       </br>
+       <Component17/>
+       <br>
+       </br>
+       <Component18/>
+       <br>
+       </br>
+       <Component19/>
+       <br>
+       </br>
+       <Componente20/>
+       </header>
+      
     </div>
   );
 }
